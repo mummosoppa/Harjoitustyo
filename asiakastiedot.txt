@@ -1,0 +1,8 @@
+Omat tiedot
+
+Nimi: Maija Meikäläinen
+Sähkoposti: maija@gmail.com
+Puhelinnumero: 0000000000
+Osoite: Rantatie 1 00010 Helsinki
+Pituus: 170.0
+Paino: 70.0
