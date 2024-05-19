@@ -302,6 +302,7 @@ public class VuokraamoSovellus extends Application implements Tiedot {
             tallennaTiedot();
             valineValinta();
             lueTiedot();
+            System.out.println("Yhteenveto \n" + asiakasTiedot);
 
         });
 
